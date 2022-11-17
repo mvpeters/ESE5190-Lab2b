@@ -1,3 +1,7 @@
+I had designed and soldered this before part
+![part10](https://user-images.githubusercontent.com/114199773/202335050-e99fe850-a8a7-4529-aa83-316409d04f37.gif)
+
+
 Original breadboard
 ![IMG_4679](https://user-images.githubusercontent.com/114199773/202334644-94d8312c-8e0e-4c01-af08-53377059869a.JPG)
 
