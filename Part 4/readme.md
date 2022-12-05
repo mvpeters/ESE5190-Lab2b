@@ -1,1 +1,1 @@
-
+This code is the part 3 code but edited to allow the user to input a percentage to slow down or speed up the replay. For example inputting 200 makes the recording replay at 200% speed. Inputting 50 replays it at 50% speed.
