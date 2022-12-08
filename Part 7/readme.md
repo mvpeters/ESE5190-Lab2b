@@ -1,3 +1,3 @@
 Below is a video of the chip recording and replaying a sequence of button presses this time using the PIO module.
 
-![image](https://user-images.githubusercontent.com/114199773/206587950-b32f1470-dbdc-464d-8365-45f1c6e3d260.png)
+![part7](https://user-images.githubusercontent.com/114199773/206590173-4bc2edb4-d13a-4a77-8636-1213a3a09693.gif)
