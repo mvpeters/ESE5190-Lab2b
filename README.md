@@ -7,7 +7,7 @@ I'm only submitting what I have for now on time which is parts 1, 2, 5, & 10. I'
 
 **As of Thursday 12/8**
 
-I added the remaining parts that I still needed and any additional videos or screenshots I forgot to add previously.
+I added the remaining parts (Parts 3,4,6,7,8,9) that I still needed and any additional videos or screenshots I forgot to add previously.
 
 
 **Answers to the questions from Canvas**
