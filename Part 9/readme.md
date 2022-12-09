@@ -1,3 +1,5 @@
+My code kept stalling for this last part so I could only get it to work if I showed the light and then ran it. I was still able to detect the color and light up the LED.
+
 Red
 
 ![image](https://user-images.githubusercontent.com/114199773/206600526-7f5f9d73-5e94-456f-8817-7f488381d3b8.png)
