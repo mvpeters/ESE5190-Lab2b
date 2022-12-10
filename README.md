@@ -33,5 +33,5 @@ The hardest parts were definitely parts 4, and 7. I understood what to do just m
 **What steps have you taken to resolve these difficulties? Any other barriers you have faced to completing this assignment? Mention any students, repos, or other resources you have found helpful in completing the lab so far.**
 
 
-Most of the difficulties I faced I had to either look online to see how others did similar actions or look at other students submitted code and try to adapt their strategies to my sequencer code. Also looking at other peoples videos and demos was very useful to see what they got working and what the ultimate goal looks like.
+Most of the difficulties I faced I had to either look online to see how others did similar actions or look at other students submitted code and try to adapt their strategies to my sequencer code. Also looking at other peoples videos and demos was very useful to see what they got working and what the ultimate goal looks like. Sometimes just the description isnt enough for me to fully understand what you're looking for as a deliverable since I am new to C and embedded systems.
 
